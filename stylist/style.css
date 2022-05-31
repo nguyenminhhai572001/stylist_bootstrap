@@ -1,0 +1,102 @@
+.header{
+    text-align: center;
+    background-image: url("img/bg-masthead.jpg");
+    background-repeat: no-repeat;
+
+}
+.header .btnFind{
+    background-color: darkcyan;
+    color: aliceblue;
+    border: none;
+}
+.navbar1{
+    text-align: center;
+
+}
+.navbar1 .btnFind1{
+    background-color: black;
+    color: aliceblue;
+}
+.offer{
+    text-align: center;
+    background-color: darkcyan;
+}
+.col-md-6{
+    text-align: center;
+}
+
+.col-md-6 #heart{
+    border: 1px solid white;
+    padding: 20px;
+    color: darkcyan;
+    background-color: white;
+    border-radius: 50%;
+}
+.col-md-6 {
+    color: white;
+}
+.offer .service{
+    color: yellow;
+}
+.offer .WWO{
+    color: aliceblue;
+}
+.project{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.project .img1{
+    background-image: url("img/portfolio-1.jpg");
+    background-repeat: no-repeat;
+    height: 465px;
+    width: 104%;
+}
+.project .img2{
+    background-image: url("img/portfolio-3.jpg");
+    background-repeat: no-repeat;
+    height: 465px;
+    width: 104%;
+}
+.project .img3{
+    background-image: url("img/portfolio-2.jpg");
+    background-repeat: no-repeat;
+    height: 465px;
+    width: 104%;
+}
+.project .img4{
+    background-image: url("img/portfolio-4.jpg");
+    background-repeat: no-repeat;
+    height: 465px;
+    width: 104%;
+}
+
+.resist{
+    background-color: darkcyan;
+    text-align: center;
+}
+.resist .btnlook{
+    background-color: black;
+    color: aliceblue;
+}
+.resist h3{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.resist .btn-resist{
+    padding-bottom: 50px;
+}
+.icon{
+    text-align: center;
+    font-size: 50px;
+    color: darkcyan;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.footer .fa-twitter{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.footer p{
+    text-align: center;
+}
+
